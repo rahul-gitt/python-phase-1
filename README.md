@@ -39,5 +39,9 @@ Brainware University
 ## ⭐ Note
 
 This repository is part of my coding journey. New programs and concepts will be added regularly as I continue learning Python.
+<<<<<<< HEAD
 Thankyou..
 
+=======
+Thank you.
+>>>>>>> 519f30521d95bca8602de15e3cf753bb5f65f5e5
