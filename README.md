@@ -35,8 +35,10 @@ Rahul Mondal
 
 B.Tech CSE (AIML) Student  
 Brainware University
+Thankyou
 
 ## ⭐ Note
 
 This repository is part of my coding journey. New programs and concepts will be added regularly as I continue learning Python.
+ 
 Thankyou..
