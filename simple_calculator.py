@@ -13,6 +13,9 @@ elif(op =="/"):
     else:
         print("Invalid..")
 elif(op == "%"):
-    print("Result = ",num1%num2)
+    if(num2 != 0):
+        print("Result = ", num1 % num2)
+    else:
+        print("Cannot perform modulus with zero")
 else :
     print("Invalid..")
